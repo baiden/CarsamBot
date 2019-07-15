@@ -5,7 +5,7 @@ This bot was created as a semester project work at school. It keeps you abreast 
 
 	MIT License
 
-	Copyright (c) 2015 Samuel Gracious Etsiakoh
+	Copyright (c) 2015 Samuel Gracious Etsiakoh and Dorcas Tay
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
